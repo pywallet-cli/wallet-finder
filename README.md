@@ -2,4 +2,4 @@
 A scraper which uses masscan and searches for webservers with bitcoin wallet.dat files in their root directory.
 
 # Usage
-sudo ./btc-scraper-linux-cli
+sudo ./wallet-scraper-linux-cli
