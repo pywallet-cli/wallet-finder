@@ -13,3 +13,10 @@ A scraper which uses masscan and searches for webservers with bitcoin wallet.dat
 
 # Windows Usage
     Execute wallet-scraper.exe in CLI (cmd.exe)
+
+## Donation ##
+If you find this program helpful, please consider a donation:
+
+BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
+
+**Thank You!**
